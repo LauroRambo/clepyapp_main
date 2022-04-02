@@ -1,0 +1,1 @@
+enum ClepyTypeUser { standart, store }

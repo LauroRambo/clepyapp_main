@@ -1,0 +1,1 @@
+enum TypeRent { locator, lessee }

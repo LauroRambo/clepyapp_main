@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/clepy_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/clepy_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/clepy_desing_system/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/clepy_desing_system/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/domain/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/domain/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/login_module/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_clepy/clepy_packages/login_module/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/app_shell/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/app_shell/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/clepy_cta/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/clepy_cta/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/clepy_feed/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/clepy_feed/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/clepy_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/clepy_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/domain/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/domain/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/landing_module/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/landing_module/build" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/login_module/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/clepy/clepy_packs/login_module/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>

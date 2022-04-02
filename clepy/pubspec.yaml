@@ -1,0 +1,43 @@
+name: clepy
+description: Clepy
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.11.0
+  flutter_rating_bar: ^4.0.0
+  fancy_drawer: ^2.0.0
+  dot_navigation_bar: ^1.0.1+4
+  flutter_multi_select_items: ^0.2.1
+
+  app_shell:
+    path: ./clepy_packs/app_shell
+  clepy_cta:
+    path: ./clepy_packs/clepy_cta
+  login_module:
+    path: ./clepy_packs/login_module
+  product_screen:
+    path: ./clepy_packs/product_screen
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/imagens/
+    - assets/
+
+

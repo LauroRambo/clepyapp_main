@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913048897728",
+    "project_id": "clepyapp",
+    "storage_bucket": "clepyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913048897728:android:aa56cf88220f29dc230525",
+        "android_client_info": {
+          "package_name": "com.br.clepy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913048897728-mkuktpfg6gt0ssoa0h71dh6uauftntrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjed_w77vbZRGWe5weSc7Po7kQA-350r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913048897728-mkuktpfg6gt0ssoa0h71dh6uauftntrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
